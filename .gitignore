@@ -1,0 +1,100 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Visual Studio cache files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Logs
+*.log
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Mac OS
+.DS_Store
+
+# Test Results
+TestResults/
+
+# Publish output
+*.Publish.xml
+*.deployproj
+
+# Backup & temp files
+*.bak
+*.tmp
+*.temp
+
+# IIS Express
+iisexpress/
+
+# Azure Functions local settings
+.azurefunctions/
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+
+# SQL Server Data Tools
+*.dbmdl
+
+# User-specific files
+*.sdf
+*.cache
+*.pdb
+*.ipch
+*.iobj
+*.idb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Web files
+*.vspscc
+*.vssscc
+
+# Resharper
+_ReSharper*/
+
+# NuGet auto generated
+project.lock.json
+project.fragment.lock.json
+
+# DotCover
+*.dotCover
+
+# JetBrains Rider
+.idea/
+
+# Node modules (if any in project)
+node_modules/
+
+# Yarn integrity file
+.yarn-integrity
+
+# Coverage
+coverage/
+
+# Package managers lock files (optional, depending on project)
+package-lock.json
+yarn.lock
