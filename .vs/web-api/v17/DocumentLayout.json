@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Documentos\\Visual Studio 2022\\Curso Moura\\web_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F41776F-53A4-4DAE-A601-F4EB2E09419E}|web_api\\web-api.csproj|c:\\users\\rodri\\onedrive\\documentos\\visual studio 2022\\curso moura\\web_api\\web_api\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F41776F-53A4-4DAE-A601-F4EB2E09419E}|web_api\\web-api.csproj|solutionrelative:web_api\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F41776F-53A4-4DAE-A601-F4EB2E09419E}|web_api\\web-api.csproj|c:\\users\\rodri\\onedrive\\documentos\\visual studio 2022\\curso moura\\web_api\\web_api\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F41776F-53A4-4DAE-A601-F4EB2E09419E}|web_api\\web-api.csproj|solutionrelative:web_api\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F41776F-53A4-4DAE-A601-F4EB2E09419E}|web_api\\web_api.csproj|c:\\users\\rodri\\onedrive\\documentos\\visual studio 2022\\curso moura\\web_api\\web_api\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F41776F-53A4-4DAE-A601-F4EB2E09419E}|web_api\\web_api.csproj|solutionrelative:web_api\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Visual Studio 2022\\Curso Moura\\web_api\\web_api\\Models\\Carro.cs",
+              "RelativeDocumentMoniker": "web_api\\Models\\Carro.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Visual Studio 2022\\Curso Moura\\web_api\\web_api\\Models\\Carro.cs",
+              "RelativeToolTip": "web_api\\Models\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:44:16.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarrosController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Visual Studio 2022\\Curso Moura\\web_api\\web_api\\Controllers\\CarrosController.cs",
+              "RelativeDocumentMoniker": "web_api\\Controllers\\CarrosController.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Visual Studio 2022\\Curso Moura\\web_api\\web_api\\Controllers\\CarrosController.cs",
+              "RelativeToolTip": "web_api\\Controllers\\CarrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:49:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionariosController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Visual Studio 2022\\Curso Moura\\web_api\\web_api\\Controllers\\FuncionariosController.cs",
+              "RelativeDocumentMoniker": "web_api\\Controllers\\FuncionariosController.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Visual Studio 2022\\Curso Moura\\web_api\\web_api\\Controllers\\FuncionariosController.cs",
+              "RelativeToolTip": "web_api\\Controllers\\FuncionariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:28:05.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
